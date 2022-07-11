@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b2dec4c.css",
-    "main.js": "/static/js/main.0363e617.js",
-    "static/js/749.a999e529.chunk.js": "/static/js/749.a999e529.chunk.js",
-    "static/js/953.62c45510.chunk.js": "/static/js/953.62c45510.chunk.js",
-    "static/js/309.cce7d83f.chunk.js": "/static/js/309.cce7d83f.chunk.js",
-    "static/js/924.2d10914f.chunk.js": "/static/js/924.2d10914f.chunk.js",
-    "static/media/avatar.jpg": "/static/media/avatar.132ac3ce654ce4e7fe53.jpg",
-    "static/media/radon.png": "/static/media/radon.b5f4cb23b29303277bee.png",
-    "static/media/imblearn.png": "/static/media/imblearn.da15f2217d77e10b3b14.png",
-    "static/media/prolog.png": "/static/media/prolog.7bd06cbfe05bc7a042d7.png",
-    "static/media/python.png": "/static/media/python.d28a690ea2dbfe8207a7.png",
-    "static/media/coursera.png": "/static/media/coursera.6d521d7f0bb04e9ac4df.png",
-    "static/media/deap.png": "/static/media/deap.f82d92ee7fceb2e70852.png",
-    "index.html": "/index.html",
-    "main.3b2dec4c.css.map": "/static/css/main.3b2dec4c.css.map",
-    "main.0363e617.js.map": "/static/js/main.0363e617.js.map",
-    "749.a999e529.chunk.js.map": "/static/js/749.a999e529.chunk.js.map",
-    "953.62c45510.chunk.js.map": "/static/js/953.62c45510.chunk.js.map",
-    "309.cce7d83f.chunk.js.map": "/static/js/309.cce7d83f.chunk.js.map",
-    "924.2d10914f.chunk.js.map": "/static/js/924.2d10914f.chunk.js.map"
+    "main.css": "./static/css/main.3b2dec4c.css",
+    "main.js": "./static/js/main.521fe433.js",
+    "static/js/749.a999e529.chunk.js": "./static/js/749.a999e529.chunk.js",
+    "static/js/953.62c45510.chunk.js": "./static/js/953.62c45510.chunk.js",
+    "static/js/309.cce7d83f.chunk.js": "./static/js/309.cce7d83f.chunk.js",
+    "static/js/924.2d10914f.chunk.js": "./static/js/924.2d10914f.chunk.js",
+    "static/media/avatar.jpg": "./static/media/avatar.132ac3ce654ce4e7fe53.jpg",
+    "static/media/radon.png": "./static/media/radon.b5f4cb23b29303277bee.png",
+    "static/media/imblearn.png": "./static/media/imblearn.da15f2217d77e10b3b14.png",
+    "static/media/prolog.png": "./static/media/prolog.7bd06cbfe05bc7a042d7.png",
+    "static/media/python.png": "./static/media/python.d28a690ea2dbfe8207a7.png",
+    "static/media/coursera.png": "./static/media/coursera.6d521d7f0bb04e9ac4df.png",
+    "static/media/deap.png": "./static/media/deap.f82d92ee7fceb2e70852.png",
+    "index.html": "./index.html",
+    "main.3b2dec4c.css.map": "./static/css/main.3b2dec4c.css.map",
+    "main.521fe433.js.map": "./static/js/main.521fe433.js.map",
+    "749.a999e529.chunk.js.map": "./static/js/749.a999e529.chunk.js.map",
+    "953.62c45510.chunk.js.map": "./static/js/953.62c45510.chunk.js.map",
+    "309.cce7d83f.chunk.js.map": "./static/js/309.cce7d83f.chunk.js.map",
+    "924.2d10914f.chunk.js.map": "./static/js/924.2d10914f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b2dec4c.css",
-    "static/js/main.0363e617.js"
+    "static/js/main.521fe433.js"
   ]
 }
