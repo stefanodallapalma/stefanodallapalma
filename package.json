@@ -1,8 +1,8 @@
 {
   "name": "personal-page",
   "version": "0.1.0",
-  "homepage": "https://stefanodallapalma.github.io/",
-  "private": true,
+  "homepage": "https://stefanodallapalma.github.io/stefanodallapalma",
+  "private": false,
   "dependencies": {
     "@emotion/cache": "^11.4.0",
     "@emotion/react": "^11.1.5",
