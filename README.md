@@ -22,4 +22,4 @@ Am intrigued and inclined towards areas of Artificial Intelligence applied to So
 
 🔭 I’m currently working on defect prediction of Infrastructure as Code, i.e., machine-readable, configuration code that is used to manage and provide services in cloud applications.
 
-See more on my [CV](https://registry.jsonresume.org/stefanodallapalma?theme=elegant).
+See more on my [CV](https://registry.jsonresume.org/stefanodallapalma).
