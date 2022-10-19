@@ -25,4 +25,5 @@ Am intrigued and inclined towards areas of Artificial Intelligence applied to So
 See more on my [CV](https://stefanodallapalma.github.io/).
 
 ## News
-October 2022: Completed the Google Project Management Career Certificate - a rigorous, hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
+October 2022: Completed the Google Project Management Career Certificate - a rigorous, hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project. [[verify](
+https://www.coursera.org/account/accomplishments/specialization/certificate/BCC4ZKBW4WFX)]
