@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **stefanodallapalma/stefanodallapalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,6 @@ Am intrigued and inclined towards areas of Artificial Intelligence applied to So
 🔭 I’m currently working on defect prediction of Infrastructure as Code, i.e., machine-readable, configuration code that is used to manage and provide services in cloud applications.
 
 See more on my [CV](https://stefanodallapalma.github.io/).
+
+## News
+October 2022: Completed the Google Project Management Career Certificate - a rigorous, hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
