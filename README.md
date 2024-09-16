@@ -5,7 +5,7 @@
 <br>
 📍 Amsterdam
 <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/stefanodallapalma) | [StackOverflow](https://stackoverflow.com/users/3673842/s-dallapalma)
+🔗 [LinkedIn](https://www.linkedin.com/in/stefanodallapalma) | [StackOverflow](https://stackoverflow.com/users/3673842/s-dallapalma) | [GoogleScholar](https://scholar.google.com/citations?user=HaYX6TMAAAAJ&hl=en)
 
 ---
 
@@ -28,6 +28,13 @@ I'm a passionate Software Engineer and AI enthusiast with a PhD in Software and 
   - **[RADON Repository Scorer](https://github.com/radon-h2020/radon-repository-scorer):** Tool for evaluating best engineering practices in software repositories through key metrics.
   - **[RADON Repository Miner](https://github.com/radon-h2020/radon-repository-miner):** A Python library for mining IaC repositories, with extensions to other languages.
   - **[RADON Defuse](https://github.com/radon-h2020/radon-defuse):** Framework for training machine learning models to predict defects in IaC, adaptable to various programming languages.
+</details>
+
+<details>
+  <summary>SpringBoot</summary>
+  
+  - **[auth-spring-boot](https://github.com/stefanodallapalma/auth-spring-boot):** Spring Boot starter for authentication with JSON Web Tokens and Refresh Tokens.
+
 </details>
 
 ### Publications & Achievements
