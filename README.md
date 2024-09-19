@@ -31,7 +31,7 @@ I'm a passionate Software Engineer and AI enthusiast with a PhD in Software and 
 </details>
 
 <details>
-  <summary>SpringBoot</summary>
+  <summary>🫘 SpringBoot</summary>
   
   - **[auth-spring-boot](https://github.com/stefanodallapalma/auth-spring-boot):** Spring Boot starter for authentication with JSON Web Tokens and Refresh Tokens.
 
