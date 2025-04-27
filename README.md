@@ -5,7 +5,7 @@
 <br>
 📍 Amsterdam
 <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/stefanodallapalma) | [StackOverflow](https://stackoverflow.com/users/3673842/s-dallapalma) | [GoogleScholar](https://scholar.google.com/citations?user=HaYX6TMAAAAJ&hl=en) | [Resume](https://github.com/stefanodallapalma/stefanodallapalma/blob/main/pdf/resume.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/stefanodallapalma) | [Medium](http://medium.com/@stefano.dallapalma0) | [StackOverflow](https://stackoverflow.com/users/3673842/s-dallapalma) | [GoogleScholar](https://scholar.google.com/citations?user=HaYX6TMAAAAJ&hl=en) | [Resume](https://github.com/stefanodallapalma/stefanodallapalma/blob/main/pdf/resume.pdf)
 
 ---
 
